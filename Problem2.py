@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 23 16:58:27 2020
-
-@author: mahaswetamitradeb
-"""
-
+#Defining function for finding the nth term in the Fibonacci sequence
 def fib(n):
     k = 0
     i = 0
